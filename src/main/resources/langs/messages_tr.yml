@@ -1,0 +1,8 @@
+# messages_tr.yml
+
+only_player: "Bu komut sadece bir oyuncu tarafından kullanılabilir."
+provide_server_name: "Lütfen hedef sunucunun adını girin."
+server_not_found: "'{server}' sunucusu bulunamadı."
+invalid_address: "'{address}' sunucu adresi geçersiz."
+invalid_port: "Port '{port}' geçerli bir sayı değil."
+transferring: "'{server}' sunucusuna bağlanıyorsunuz."

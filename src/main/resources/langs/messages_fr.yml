@@ -1,0 +1,8 @@
+# messages_fr.yml
+
+only_player: "Cette commande ne peut être exécutée que par un joueur."
+provide_server_name: "Veuillez indiquer le nom du serveur cible."
+server_not_found: "Le serveur '{server}' n'a pas été trouvé."
+invalid_address: "L'adresse du serveur '{address}' est invalide."
+invalid_port: "Le port '{port}' n'est pas un nombre valide."
+transferring: "Vous êtes maintenant connecté au serveur '{server}'."

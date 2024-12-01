@@ -1,0 +1,8 @@
+# messages_lu.yml
+
+only_player: "Dëse Befehl kann nëmmen vun engem Spilleren ausgefouert ginn."
+provide_server_name: "Gëff w.e.g. den Numm vum Zilserver an."
+server_not_found: "De Server '{server}' gouf net fonnt."
+invalid_address: "D'Serveradress '{address}' ass ongëlteg."
+invalid_port: "De Port '{port}' ass keng gült Zahl."
+transferring: "Dir wärt elo mat dem Server '{server}' verbannen."

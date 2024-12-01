@@ -1,0 +1,14 @@
+###########################################################
+# Transfer Plugin 1.2                                     #
+# Made with <3 by HackV0gel                               #
+# that's actually the best securest BungeeCord alternate! #
+# https://youtube.com/@HackV0geI                          #
+# https://dsc.gg/IntelliJ                                 #
+# https://github.com/PublicCode1337/TransferPlugin        #
+###########################################################
+
+language: "en"
+
+servers:
+  hub:
+    address: "127.0.0.1:25565"
